@@ -2,4 +2,4 @@
 
 Hello.
 
-I'm tring to create a new app.
+I'm interested to learn new stuff.
